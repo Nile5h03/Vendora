@@ -1,0 +1,71 @@
+.hero{
+height: 100vh;
+background: linear-gradient(180deg,#fde1ff,#e1ffea22 60%);
+display: flex;
+}
+.heroleft{
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:20px;
+    padding-left:150px;
+    line-height: 1.1;
+}
+.heroleft h2{
+    color: #090909;
+    font-size:15px;
+    font-weight: 500;
+}
+.heroleft p{
+    color: #171717;
+    font-size: 60px;
+    font-weight: 400;
+}
+.handicon{
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+.handicon img{
+    width: 70px;
+
+}
+
+
+
+.herolatestbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:15px;
+width: 310px;
+height: 70px;
+border-radius: 75px;
+margin-top:30px;
+background: #ff4141;
+color: white;
+font-size: 20px;
+font-weight: 500;
+
+
+}
+
+.heroright{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.heroright img{
+    width: 500px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
