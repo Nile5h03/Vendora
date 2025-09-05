@@ -2,7 +2,7 @@
 > **_“From product to purchase, simplified.”_**
 
 ## 🔍 About  
-**Vendora** is a modern e-commerce platform that bridges the gap between buyers and sellers.  
+
 Vendora is a next-generation e-commerce platform that bridges the gap between vendors and customers by offering a seamless shopping experience.  
 It focuses on simplicity, speed, and reliability—helping customers discover products effortlessly while empowering vendors with powerful tools to manage sales and grow their business.  
 
