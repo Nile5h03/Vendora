@@ -1,4 +1,5 @@
-# "Vendora – From product to purchase, simplified."
+# Vendora 
+> **_"From product to purchase, simplified."_**
 
 ## 📖 About
 
